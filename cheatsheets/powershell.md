@@ -1,12 +1,12 @@
 # PowerShell
 
-PowerShell Logo goes here
+![alt text](PowerShell_5.0_icon.png)
 
 About PowerShell
 
-**PowerShell is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, PowerShell is both a _command-line tool_ and _a scripting environment_, making it a versatile tool for programmers and system administrators.**
+**[PowerShell](https://docs.microsoft.com/en-us/powershell/) is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview), PowerShell is both a _command-line tool_ and _a scripting environment_, making it a versatile tool for programmers and system administrators.**
 
-> "_PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project._" ( from the interview with Jeffrey Snover, PowerShell Inventor)
+> "_PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project._" ( from the [interview](https://evrone.com/blog/jeffrey-snover-interview) with Jeffrey Snover, PowerShell Inventor)
 
 ## Why Learn PowerShell?
 
@@ -87,7 +87,7 @@ Integrated console for testing scripts.
 Multi-tab interface for working with multiple scripts.
 Best for: Beginners and users working on older versions of PowerShell.
 
-ISE Image goes here
+![ISE Image goes here](ISE_panes.png)
 
 Visual Studio Code (VS Code)
 
@@ -100,7 +100,7 @@ Support for Git and other version control systems.
 Cross-platform (Windows, macOS, Linux).
 Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-VSCode Image goes here
+![VSCode Image goes here](vs_code.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
