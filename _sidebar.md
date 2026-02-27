@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [MyProjects](myProjects.md)
+  - [Serge_Revkov_2547932](Serge_Revkov_2547932.md)
